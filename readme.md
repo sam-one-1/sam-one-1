@@ -6,7 +6,7 @@
 ## Informacion personal
 
 * Tengo 17 años
-* Estoy estudiando una tecnica en programacion de software
+* Estoy estudiando una tecnica en desarrollo de software
 * Vivo en Cucuta, Norte De Santander, Colombia
 * Bachiller tecnico
 
