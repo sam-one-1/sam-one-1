@@ -10,7 +10,7 @@
 * Vivo en Cucuta, Norte De Santander, Colombia
 * Bachiller tecnico
 
-
+https://portafolio-jade-two-13.vercel.app/
 
 >[!IMPORTANT]
 >
